@@ -1,4 +1,24 @@
 What is the purpose of this application?
+	The purpose of this application is to push tasks onto a list. 
 What commands or actions does it support?
+	It supports add, list, complete, delete, and exit. 
 Where does it store its data?
+	It stores its data in the tasks.json file. 
+
+
+What was the hardest part of understanding this project?
+	The hardest part of understanding this project was making sure we were in the correct directory and remembering the commands. I had a little bit of a hard time getting to the correct directory in the beginning. I could not remember how to change the directory to get to where I needed. I finally figured it out, and I was able to move on with my lab. Some of the commands I had a hard time remembering, so I was referring back to the lab instructions a lot. I also couldn't remember what a lot of the commands did so I spent a lot of time just hoping what I was doing was correct. 
+	
+What change was easiest to make?
+	The easiest change for me to make was adding the count tasks function into the code. It was correct and worked on the first try. The indentation was also correct, so I didn't have to fix that at all. It was also a small function so I could easily see what it was doing without having to read a lot of code. 
+	
+What change took the most testing or debugging?
+	The change that took the most testing was the second function we had to write into the code. I had the chat help me with this one as well, but it added a lot of sections that I had to look through. It also did not have the correct indentations, so I had to go through and fix that so that it would run correctly. The code worked on the first try, but it was hard to make sure it would work just from a glance. 
+	
+How did GitHub help you manage your work today?
+	GitHub helped me to manage my work by forking the original lab, saving my work into my repository, and giving me the Copilot chat in VS code. By forking the original lab, I was able to make a copy of it to my repository so that I could edit it without messing up the original version. I also did not have to make a completely new version on my own. This saves a lot of time when completing projects. I was able to save everything into one repository, so now if I ever need to go back and access all of this, it is saved into one spot. Also, this makes it easier to share the files if need be. Copilot chat helped me add to my code without having to write any myself. This is a huge time saver by taking away the need to write code from scratch.
+	 
+If you had more time, what would you improve next?
+	If I had more time, I would make sure there aren't any duplicates in the code, I would add a counter that is displayed for the task list at all times, and I would add an option to put due dates for tasks that are due at a certain time. I think all of these things would improve the code and make the program look and run better. 
+	
 
