@@ -1,0 +1,4 @@
+What is the purpose of this application?
+What commands or actions does it support?
+Where does it store its data?
+
